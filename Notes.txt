@@ -5,3 +5,14 @@ JUnit Test LifeCycle
 @Test
 @AfterEach
 @AfterAll
+
+________
+
+Git command to up another new branch with reference to previous or origin
+
+git push --set-upstream origin hello-world-test
+
+origin is the master branch here
+hello-world-test is the new branch name
+
+___________--
