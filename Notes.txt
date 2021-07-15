@@ -1,0 +1,7 @@
+JUnit Test LifeCycle
+
+@BeforeAll
+@BeforeEach
+@Test
+@AfterEach
+@AfterAll
